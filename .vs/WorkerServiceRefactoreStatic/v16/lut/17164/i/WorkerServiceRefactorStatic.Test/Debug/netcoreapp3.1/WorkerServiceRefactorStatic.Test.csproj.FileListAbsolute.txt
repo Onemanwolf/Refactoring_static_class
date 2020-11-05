@@ -1,0 +1,17 @@
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\b\WorkerServiceRefactorStatic.Test\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\b\WorkerServiceRefactorStatic.Test\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\b\WorkerServiceRefactorStatic.Test\Debug\netcoreapp3.1\WorkerServiceRefactoreStatic.exe
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\b\WorkerServiceRefactorStatic.Test\Debug\netcoreapp3.1\testhost.exe
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\b\WorkerServiceRefactorStatic.Test\Debug\netcoreapp3.1\testhost.dll
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\b\WorkerServiceRefactorStatic.Test\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\b\WorkerServiceRefactorStatic.Test\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\b\WorkerServiceRefactorStatic.Test\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\b\WorkerServiceRefactorStatic.Test\Debug\netcoreapp3.1\WorkerServiceRefactorStatic.Test.deps.json
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\b\WorkerServiceRefactorStatic.Test\Debug\netcoreapp3.1\WorkerServiceRefactorStatic.Test.runtimeconfig.json
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\b\WorkerServiceRefactorStatic.Test\Debug\netcoreapp3.1\WorkerServiceRefactorStatic.Test.runtimeconfig.dev.json
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\b\WorkerServiceRefactorStatic.Test\Debug\netcoreapp3.1\WorkerServiceRefactorStatic.Test.dll
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\i\WorkerServiceRefactorStatic.Test\Debug\netcoreapp3.1\WorkerServiceRefactorStatic.Test.AssemblyInfoInputs.cache
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\i\WorkerServiceRefactorStatic.Test\Debug\netcoreapp3.1\WorkerServiceRefactorStatic.Test.AssemblyInfo.cs
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\i\WorkerServiceRefactorStatic.Test\Debug\netcoreapp3.1\WorkerServiceRefactorStatic.Test.csproj.CopyComplete
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\i\WorkerServiceRefactorStatic.Test\Debug\netcoreapp3.1\WorkerServiceRefactorStatic.Test.dll
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\i\WorkerServiceRefactorStatic.Test\Debug\netcoreapp3.1\WorkerServiceRefactorStatic.Test.genruntimeconfig.cache

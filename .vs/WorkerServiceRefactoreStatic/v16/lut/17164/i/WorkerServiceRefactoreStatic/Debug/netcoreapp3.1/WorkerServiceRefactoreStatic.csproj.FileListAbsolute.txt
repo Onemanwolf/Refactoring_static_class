@@ -1,0 +1,13 @@
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\b\WorkerServiceRefactoreStatic\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\b\WorkerServiceRefactoreStatic\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\b\WorkerServiceRefactoreStatic\Debug\netcoreapp3.1\WorkerServiceRefactoreStatic.exe
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\b\WorkerServiceRefactoreStatic\Debug\netcoreapp3.1\WorkerServiceRefactoreStatic.deps.json
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\b\WorkerServiceRefactoreStatic\Debug\netcoreapp3.1\WorkerServiceRefactoreStatic.runtimeconfig.json
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\b\WorkerServiceRefactoreStatic\Debug\netcoreapp3.1\WorkerServiceRefactoreStatic.runtimeconfig.dev.json
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\b\WorkerServiceRefactoreStatic\Debug\netcoreapp3.1\WorkerServiceRefactoreStatic.dll
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\i\WorkerServiceRefactoreStatic\Debug\netcoreapp3.1\WorkerServiceRefactoreStatic.csprojAssemblyReference.cache
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\i\WorkerServiceRefactoreStatic\Debug\netcoreapp3.1\WorkerServiceRefactoreStatic.AssemblyInfoInputs.cache
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\i\WorkerServiceRefactoreStatic\Debug\netcoreapp3.1\WorkerServiceRefactoreStatic.AssemblyInfo.cs
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\i\WorkerServiceRefactoreStatic\Debug\netcoreapp3.1\WorkerServiceRefactoreStatic.csproj.CopyComplete
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\i\WorkerServiceRefactoreStatic\Debug\netcoreapp3.1\WorkerServiceRefactoreStatic.dll
+C:\Users\tioleson\source\repos\WorkerServiceRefactoreStatic\.vs\WorkerServiceRefactoreStatic\v16\lut\0\i\WorkerServiceRefactoreStatic\Debug\netcoreapp3.1\WorkerServiceRefactoreStatic.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerServiceRefactoreStatic", "WorkerServiceRefactoreStatic\WorkerServiceRefactoreStatic.csproj", "{5D07063D-11BE-4756-9CBF-D3D7882F76C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerServiceRefactorStatic.Test", "WorkerServiceRefactorStatic.Test\WorkerServiceRefactorStatic.Test.csproj", "{930D69CB-75DE-4595-A3E4-3380EBB3BE0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D07063D-11BE-4756-9CBF-D3D7882F76C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D07063D-11BE-4756-9CBF-D3D7882F76C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D07063D-11BE-4756-9CBF-D3D7882F76C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D07063D-11BE-4756-9CBF-D3D7882F76C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930D69CB-75DE-4595-A3E4-3380EBB3BE0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930D69CB-75DE-4595-A3E4-3380EBB3BE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930D69CB-75DE-4595-A3E4-3380EBB3BE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930D69CB-75DE-4595-A3E4-3380EBB3BE0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F3CCBB5-BA5D-4E25-B903-002919B1BC47}
+	EndGlobalSection
+EndGlobal

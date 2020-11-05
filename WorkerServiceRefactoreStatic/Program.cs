@@ -19,7 +19,7 @@ namespace WorkerServiceRefactoreStatic
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureServices((hostContext, services) =>
-                {
+                {   //add service
                     services.AddSingleton<IAnotherStaticClassAdapter, AnotherStaticClassAdapter>();
                     services.AddSingleton<IStaticBehaviorAdapter, StaticAdapter>();
                     services.AddHostedService<Worker>();

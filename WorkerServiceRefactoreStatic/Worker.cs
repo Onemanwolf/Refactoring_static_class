@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using WorkerServiceRefactoreStatic.Interfaces;
+using WorkerServiceRefactoreStatic.Models;
 
 namespace WorkerServiceRefactoreStatic
 {
@@ -24,6 +25,7 @@ namespace WorkerServiceRefactoreStatic
         {
             while (!stoppingToken.IsCancellationRequested)
             {
+                StaticBehavior.Print();
                 _adapter.Print(isService:true); // Should just return Print if false return print if true return Print service
                 _logger.LogInformation("Worker running at: {time}", DateTimeOffset.Now);
                 await Task.Delay(1000, stoppingToken);

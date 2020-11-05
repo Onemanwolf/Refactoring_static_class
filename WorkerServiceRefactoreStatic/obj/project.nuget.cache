@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0B4vgkueNQ0INk+zNsG0Nx+Rp823FsEdSp2W70WmSVoo3f4u/YVsbFg1To0VyPs78+8BVDkzBwY+3EUgipm47A==",
+  "dgSpecHash": "Y1V6CkFglnV2QsBhXcwrmFfraflzy2cRfUgkVKYAwkhKDKK5ExcmTo+zr36n5+yeqRClY5/Dvudv0awSHSGWUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic.csproj",
+  "projectFilePath": "c:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tioleson\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
     "C:\\Users\\tioleson\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",

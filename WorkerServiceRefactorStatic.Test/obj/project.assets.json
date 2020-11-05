@@ -7502,11 +7502,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactorStatic.Test\\WorkerServiceRefactorStatic.Test.csproj",
+      "projectUniqueName": "c:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactorStatic.Test\\WorkerServiceRefactorStatic.Test.csproj",
       "projectName": "WorkerServiceRefactorStatic.Test",
-      "projectPath": "C:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactorStatic.Test\\WorkerServiceRefactorStatic.Test.csproj",
+      "projectPath": "c:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactorStatic.Test\\WorkerServiceRefactorStatic.Test.csproj",
       "packagesPath": "C:\\Users\\tioleson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactorStatic.Test\\obj\\",
+      "outputPath": "c:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactorStatic.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -7529,8 +7529,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic.csproj": {
-              "projectPath": "C:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic.csproj"
+            "c:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic.csproj": {
+              "projectPath": "c:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic.csproj"
             }
           }
         }

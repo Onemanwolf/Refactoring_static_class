@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic.csproj": {}
+    "c:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic.csproj": {
+    "c:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic.csproj",
+        "projectUniqueName": "c:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic.csproj",
         "projectName": "WorkerServiceRefactoreStatic",
-        "projectPath": "C:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic.csproj",
+        "projectPath": "c:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic.csproj",
         "packagesPath": "C:\\Users\\tioleson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic\\obj\\",
+        "outputPath": "c:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactoreStatic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

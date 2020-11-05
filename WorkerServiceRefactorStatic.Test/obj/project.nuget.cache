@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vCYPhPnpDABh9H3igWji4KotsBodgbxSlXx/svIaEeWr7TZdWbG3HrVl/cq4yuuCvSm3BNTxCmo/crHPFhhJbw==",
+  "dgSpecHash": "OC8IhzOw5HYThLWmjLpndRXVtHV7tyI4hqESig3SnyJqkAAtNbhph51CCcjzzyWCubMImF4gGfPfEe8r4x+yNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactorStatic.Test\\WorkerServiceRefactorStatic.Test.csproj",
+  "projectFilePath": "c:\\Users\\tioleson\\source\\repos\\WorkerServiceRefactoreStatic\\WorkerServiceRefactorStatic.Test\\WorkerServiceRefactorStatic.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tioleson\\.nuget\\packages\\autofixture\\4.14.0\\autofixture.4.14.0.nupkg.sha512",
     "C:\\Users\\tioleson\\.nuget\\packages\\autofixture.automoq\\4.14.0\\autofixture.automoq.4.14.0.nupkg.sha512",
